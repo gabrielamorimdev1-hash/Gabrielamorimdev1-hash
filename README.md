@@ -1,9 +1,11 @@
-<h1 align="center">Gabriel Amorim </h1>
+<h1 align="center">
+  <span style="color:#A855F7;">Gabriel</span>
+  <span style="color:#3B82F6;"> Amorim</span>
+</h1>
 
 <p align="center">
   Estudante de ADS | Desenvolvedor em formação
 </p>
-
 <hr> 
 
 <h2><img width="35" height="35" alt="icons8-estação-de-trabalho-48 (1)" src="https://github.com/user-attachments/assets/547d23f6-276d-40d8-ba02-70fdea696ae0" />Sobre mim </h2>
