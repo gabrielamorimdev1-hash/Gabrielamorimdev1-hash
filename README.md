@@ -12,9 +12,9 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-<a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:SEU_EMAIL@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
- </a>
+  </a>
 </p>
 
 <p align="center">
@@ -62,13 +62,24 @@ Meu objetivo é evoluir constantemente através dos estudos, da prática e da cr
 </p>
 <p>
   
-📂 Projetos em destaque
-🏋️ Personal Trainer Site
+<h2>📂 Projetos em destaque</h2>
 
-Meu primeiro projeto publicado no GitHub, desenvolvido para praticar
-conceitos de desenvolvimento Front-End.
-
-🔗 [Ver projeto](https://github.com/gabrielamorimdev1-hash/Personal-Trainer-Site)</p>
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🏋️ Personal Trainer Site</h3>
+      <p>
+        Site desenvolvido para praticar HTML e CSS,
+        aplicando os fundamentos de desenvolvimento Front-End.
+      </p>
+      <p>
+        🔗 <a href="https://github.com/gabrielamorimdev1-hash/Personal-Trainer-Site">
+          Ver projeto
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <h2> <img width="35" height="35" alt="contato" src="https://github.com/user-attachments/assets/fb5f7cfb-7cd6-4c98-b922-ce99e99764a5" />Contatos</h2>
 <p><img width="25" height="25" alt="envelope" src="https://github.com/user-attachments/assets/6bc5b391-4fd2-4213-b1f0-b2d004e163d2" />
