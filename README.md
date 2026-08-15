@@ -1,6 +1,18 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Gabriel+Amorim;Estudante+de+ADS;Desenvolvedor+em+forma%C3%A7%C3%A3o" />
 </p>
+
+<p align="center">
+
+  <a href="https://github.com/gabrielamorimdev1-hash">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/gabriel-amorim-893249407/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+</p>
 <hr> 
 
 <h2><img width="35" height="35" alt="icons8-estação-de-trabalho-48 (1)" src="https://github.com/user-attachments/assets/547d23f6-276d-40d8-ba02-70fdea696ae0" />Sobre mim </h2>
