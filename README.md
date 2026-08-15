@@ -1,10 +1,5 @@
-<h1 align="center">
-  <span style="color:#A855F7;">Gabriel</span>
-  <span style="color:#3B82F6;"> Amorim</span>
-</h1>
-
 <p align="center">
-  Estudante de ADS | Desenvolvedor em formação
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Gabriel+Amorim;Estudante+de+ADS;Desenvolvedor+em+forma%C3%A7%C3%A3o" />
 </p>
 <hr> 
 
