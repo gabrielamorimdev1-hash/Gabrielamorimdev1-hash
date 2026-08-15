@@ -12,7 +12,15 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
+<a href="mailto:SEU_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
 </p>
+
+<p align="center">
+  <i>"Cada dia aprendendo algo novo, construindo o futuro que sonho." 🚀</i>
+</p>
+
 <hr> 
 
 <h2><img width="35" height="35" alt="icons8-estação-de-trabalho-48 (1)" src="https://github.com/user-attachments/assets/547d23f6-276d-40d8-ba02-70fdea696ae0" />Sobre mim </h2>
@@ -52,10 +60,28 @@ Tenho estudado Java para desenvolver uma base sólida, além de explorar tecnolo
 
 Meu objetivo é evoluir constantemente através dos estudos, da prática e da criação de projetos, transformando o conhecimento adquirido em experiências reais.
 </p>
+<p>
+  
+📂 Projetos em destaque
+🏋️ Personal Trainer Site
+
+Meu primeiro projeto publicado no GitHub, desenvolvido para praticar
+conceitos de desenvolvimento Front-End.
+
+🔗 [Ver projeto](https://github.com/gabrielamorimdev1-hash/Personal-Trainer-Site)</p>
 
 <h2> <img width="35" height="35" alt="contato" src="https://github.com/user-attachments/assets/fb5f7cfb-7cd6-4c98-b922-ce99e99764a5" />Contatos</h2>
 <p><img width="25" height="25" alt="envelope" src="https://github.com/user-attachments/assets/6bc5b391-4fd2-4213-b1f0-b2d004e163d2" />
 Email: gabrielamorim.dev1</p>
 <p><img width="25" height="25" alt="linkedin" src="https://github.com/user-attachments/assets/1cf415e5-c662-4040-9907-9ec064a2e8b0" />Linkedin:https://www.linkedin.com/in/gabriel-amorim-893249407/</p>
 <p><img width="25" height="25" alt="icons8-localização-48" src="https://github.com/user-attachments/assets/46175589-5475-48cb-91c0-b2f030a6fd4d" />Localização: Brasilia - DF, Brasil
+</p>
+<hr>
+
+<h3 align="center">
+  ⭐ Um dia de cada vez
+</h3>
+
+<p align="center">
+  Obrigado pela visita ao meu perfil! 🚀
 </p>
