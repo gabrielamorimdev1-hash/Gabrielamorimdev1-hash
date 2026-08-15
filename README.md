@@ -5,7 +5,7 @@
 </p>
 
 <hr>
-<p Sobre mim
+<p> Sobre mim
 
 Sou estudante de Análise e Desenvolvimento de Sistemas e estou construindo minha base em programação e desenvolvimento de software.
 
