@@ -26,7 +26,7 @@
 <h2><img width="35" height="35" alt="icons8-estação-de-trabalho-48 (1)" src="https://github.com/user-attachments/assets/547d23f6-276d-40d8-ba02-70fdea696ae0" />Sobre mim </h2>
 <p>
 <img width="25" height="25" alt="diplomado" src="https://github.com/user-attachments/assets/a795c309-fb1c-43bf-90b8-1244fe12c330" />Estudante de Analise e Desenvolvimento de sistema (ADS)</p>
-<p><img width="25" height="25" alt="pilha-de-livros" src="https://github.com/user-attachments/assets/55449b58-3ab1-47ff-9a62-ee0109748978" />Atualmente, estou focado criar uma base solida, buscando evoluir através de projetos e prática.</p>
+<p><img width="25" height="25" alt="pilha-de-livros" src="https://github.com/user-attachments/assets/55449b58-3ab1-47ff-9a62-ee0109748978" />Atualmente, estou focado construir uma base solida, buscando evoluir através de projetos e prática.</p>
 <p><img width="25" height="25" alt="xicara-de-cafe" src="https://github.com/user-attachments/assets/70da4189-6cf3-46df-b0d7-bfc932fcf8ff" />
 Estudando Java, Programação Orientada a Objetos e Banco de Dados</p>
 <p><img width="25" height="25" alt="engrenagem" src="https://github.com/user-attachments/assets/29a65a58-7e1f-4259-b64e-9952685c2dc7" />Interesse em Desenvolvimento Backend, APIs e banco de dados</p>
