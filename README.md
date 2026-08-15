@@ -6,9 +6,11 @@
 
 <hr> 
 
-<h2> Sobre mim </h2>
+<h2><img width="40" height="40" alt="icons8-estação-de-trabalho-48 (1)" src="https://github.com/user-attachments/assets/547d23f6-276d-40d8-ba02-70fdea696ae0" />Sobre mim </h2>
 <p>
 
+<img width="30" height="30" alt="diplomado" src="https://github.com/user-attachments/assets/a795c309-fb1c-43bf-90b8-1244fe12c330" />
+<img width="30" height="30" alt="pilha-de-livros" src="https://github.com/user-attachments/assets/55449b58-3ab1-47ff-9a62-ee0109748978" />
 Estudante de Analise e Desenvolvimento de sistema (ADS)
 Atualmente, estou focado em aprender Java, lógica de programação, buscando evoluir através de projetos e prática.
 Atualmente focado em aprender programação e construir uma base solida
@@ -18,7 +20,9 @@ Buscando oportunidade para aprender, evoluir e contribuir
 
 </p>
 
-<h2>Linguagem e ferramentas </h2>
+<h2><img width="40" height="40" alt="ferramenta-de-reparacao" src="https://github.com/user-attachments/assets/374cc307-aa12-4afb-b25d-372cc3a55482" />
+
+  Linguagem e ferramentas </h2>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/>
@@ -33,7 +37,8 @@ Buscando oportunidade para aprender, evoluir e contribuir
 - GitHub
 </p>
 
-<h2><img width="48" height="48" alt="icons8-estação-de-trabalho-48 (1)" src="https://github.com/user-attachments/assets/547d23f6-276d-40d8-ba02-70fdea696ae0" />
+<h2>
+<img width="40" height="40" alt="icons8-alvo-48" src="https://github.com/user-attachments/assets/9c95b2e3-e2c3-4c5a-b2b5-488455067660" />
 Sobre minha jornada</h2>
 <p>Minha jornada na programação está apenas começando.
 
