@@ -67,13 +67,13 @@ Meu objetivo é evoluir constantemente através dos estudos, da prática e da cr
 <table>
   <tr>
     <td width="50%">
-      <h3>🏋️ Personal Trainer Site</h3>
+      <h3>☕ Validador de Idade em Java</h3>
       <p>
-        Site desenvolvido para praticar HTML e CSS,
-        aplicando os fundamentos de desenvolvimento Front-End.
+        Projeto desenvolvido em Java para praticar lógica de programação,
+        entrada de dados e estruturas condicionais.
       </p>
       <p>
-        🔗 <a href="https://github.com/gabrielamorimdev1-hash/Personal-Trainer-Site">
+        🔗 <a href="https://github.com/gabrielamorimdev1-hash/validador_simples_java">
           Ver projeto
         </a>
       </p>
